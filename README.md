@@ -8,11 +8,11 @@ Activate and you're set!
 
 Using the shortcode `[picsum]` returns a `200px` x `200px` image.
 
-`[pcsum width=X height=X]` - `X` being the value in pixels in which you want the image.
+`[picsum width=X height=X]` - `X` being the value in pixels in which you want the image.
 
-`[pcsum greyscale=true]` - will return the image in greyscale.
+`[picsum greyscale=true]` - will return the image in greyscale.
 
-`[pcsum blur=true]` - will return the image blurred.
+`[picsum blur=true]` - will return the image blurred.
 
 You can use all the attributes together like `[picsum width=550 height=200 greyscale=true blur=true]`
 
