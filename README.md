@@ -6,7 +6,7 @@ Activate and you're set!
 
 ## How to use
 
-Using the shortcode `[picsum]` you will return a `200px` x `200px` image.
+Using the shortcode `[picsum]` returns a `200px` x `200px` image.
 
 `[pcsum width=X height=X]` - `X` being the value in pixels in which you want the image.
 
